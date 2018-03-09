@@ -5,10 +5,10 @@ new programing
 
 echo "  MENU    "
 
-
 echo "a. fecha del dia"
 echo "b. IP"
 echo "c. Identificador de Usuario"
+
 
 read -p 'de la opcion elegida:  ' num
 
@@ -44,6 +44,6 @@ case $num in
         *)
            echo "la opcion dada es incorrecta"
         ;;
-esac
+        esac
 
 echo "FIN"
