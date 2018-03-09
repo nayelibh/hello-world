@@ -1,19 +1,21 @@
 # hello-world
 
-***new programing***
+**primer programa**
 
+"cabecera de programa en bash"
 ~~~
 #!/bin/bash -x 
 ~~~
-"cabecera de programa en bash"
+"menu inicial"
 ~~~
 echo "  MENU    "
 
 echo "a. fecha del dia"
 echo "b. IP"
 echo "c. Identificador de Usuario"
-
-
+~~~
+"Lectura de primera opcion seleccionada"
+~~~
 read -p 'de la opcion elegida:  ' num
 
 case $num in
