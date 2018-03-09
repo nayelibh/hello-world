@@ -17,6 +17,9 @@ echo "c. Identificador de Usuario"
 "Lectura de primera opcion seleccionada"
 ~~~
 read -p 'de la opcion elegida:  ' num
+~~~
+"evaluacion de dato"
+~~~
 
 case $num in
         a)
@@ -52,6 +55,6 @@ case $num in
         ;;
         esac
 
-echo "FIN"
+echo "FIN" 
 ~~~
 "esto es el fin del programa
