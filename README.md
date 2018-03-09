@@ -1,6 +1,7 @@
 # hello-world
 new programing
 
+~~~
 #!/bin/bash -x 
 
 echo "  MENU    "
@@ -47,3 +48,5 @@ case $num in
         esac
 
 echo "FIN"
+~~~
+"esto es el fin del programa
