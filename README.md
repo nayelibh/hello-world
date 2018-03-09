@@ -4,7 +4,9 @@
 
 ~~~
 #!/bin/bash -x 
-
+~~~
+"cabecera de programa en bash"
+~~~
 echo "  MENU    "
 
 echo "a. fecha del dia"
