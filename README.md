@@ -2,7 +2,7 @@
 
 **primer programa**
 
-*cabecera de programa en bash
+*cabecera de programa en bash*
 ~~~
 #!/bin/bash -x 
 ~~~
